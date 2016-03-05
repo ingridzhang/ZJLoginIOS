@@ -1,10 +1,3 @@
-//
-//  RkyNameViewController.m
-//  EasyJieApp
-//
-//  Created by 李世乾 on 15/7/23.
-//  Copyright (c) 2015年 easyjie. All rights reserved.
-//
 
 #import "RkyNameViewController.h"
 #import "RkyLoginDefine.h"

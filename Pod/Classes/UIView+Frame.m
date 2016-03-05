@@ -1,10 +1,3 @@
-//
-//  UIView+Frame.m
-//  EasyJie
-//
-//  Created by ricky on 14-8-26.
-//  Copyright (c) 2014年 rickycui. All rights reserved.
-//
 
 #import "UIView+Frame.h"
 

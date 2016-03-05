@@ -1,10 +1,3 @@
-//
-//  LoginHeader.h
-//  Pods
-//
-//  Created by Apple on 16/1/25.
-//
-//
 
 #ifndef LoginHeader_h
 #define LoginHeader_h

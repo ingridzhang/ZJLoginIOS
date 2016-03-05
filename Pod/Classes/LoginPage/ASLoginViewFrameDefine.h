@@ -1,10 +1,4 @@
-//
-//  ASLoginViewFrameDefine.h
-//  testLogin
-//
-//  Created by sun on 15/12/3.
-//  Copyright © 2015年 sunfei. All rights reserved.
-//
+
 
 #ifndef ASLoginViewFrameDefine_h
 #define ASLoginViewFrameDefine_h

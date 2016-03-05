@@ -1,10 +1,3 @@
-//
-//  RkySkinDefine.h
-//  EasyJie
-//
-//  Created by ricky on 14-8-23.
-//  Copyright (c) 2014年 rickycui. All rights reserved.
-//
 
 #ifndef EasyJie_RkySkinDefine_h
 #define EasyJie_RkySkinDefine_h

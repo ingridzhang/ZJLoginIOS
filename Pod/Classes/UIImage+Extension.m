@@ -1,10 +1,3 @@
-//
-//  UIImage+Extension.m
-//  Pods
-//
-//  Created by Apple on 16/1/22.
-//
-//
 
 #import "UIImage+Extension.h"
 

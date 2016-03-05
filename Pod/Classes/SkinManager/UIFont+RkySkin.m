@@ -1,10 +1,3 @@
-//
-//  UIFont+RkySkin.m
-//  EasyJie
-//
-//  Created by ricky on 14-8-23.
-//  Copyright (c) 2014年 rickycui. All rights reserved.
-//
 
 #import "UIFont+RkySkin.h"
 #import "LoginHeader.h"

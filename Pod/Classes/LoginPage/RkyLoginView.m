@@ -1,10 +1,3 @@
-//
-//  RkyLoginView.m
-//  EasyJie
-//
-//  Created by ricky on 14-8-24.
-//  Copyright (c) 2014年 rickycui. All rights reserved.
-//
 
 #define kNextViewPoint_y(view)(view.frame.size.height+view.frame.origin.y)
 

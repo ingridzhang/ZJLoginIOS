@@ -1,10 +1,3 @@
-//
-//  RkyLoginDefine.h
-//  EasyJieApp
-//
-//  Created by ricky on 14-9-3.
-//  Copyright (c) 2014年 easyjie. All rights reserved.
-//
 
 #ifndef EasyJieApp_RkyLoginDefine_h
 #define EasyJieApp_RkyLoginDefine_h

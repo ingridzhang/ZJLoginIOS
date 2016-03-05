@@ -1,10 +1,3 @@
-//
-//  RkyResetPasswordViewController.m
-//  EasyJieApp
-//
-//  Created by sun on 15/7/28.
-//  Copyright (c) 2015年 easyjie. All rights reserved.
-//
 
 #import "RkyResetPasswordViewController.h"
 #import "RkyResetPasswordViewModel.h"

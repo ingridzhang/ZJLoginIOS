@@ -1,12 +1,4 @@
 
-//
-//  RkyMailHandler.m
-//  EasyJieApp
-//
-//  Created by ricky on 14-9-6.
-//  Copyright (c) 2014年 easyjie. All rights reserved.
-//
-
 #import "RkyMailHandler.h"
 #import "RkyLoginService.h"
 #import "LoginHeader.h"

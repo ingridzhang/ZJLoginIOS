@@ -1,10 +1,3 @@
-//
-//  RkyMacros.h
-//  EasyJieApp
-//
-//  Created by eson on 14-8-30.
-//  Copyright (c) 2014年 easyjie. All rights reserved.
-//
 
 #ifndef EasyJieApp_RkyMacros_h
 #define EasyJieApp_RkyMacros_h

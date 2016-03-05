@@ -1,10 +1,4 @@
-//
-//  EasyAdaptationDefine.h
-//  EasyJieApp
-//
-//  Created by choici on 15/12/8.
-//  Copyright © 2015年 easyjie. All rights reserved.
-//
+
 
 #ifndef EasyAdaptationDefine_h
 #define EasyAdaptationDefine_h

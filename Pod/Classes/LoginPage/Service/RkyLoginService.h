@@ -1,10 +1,3 @@
-//
-//  RkyLoginService.h
-//  EasyJieApp
-//
-//  Created by sun on 15/10/22.
-//  Copyright © 2015年 easyjie. All rights reserved.
-//
 
 #import <Foundation/Foundation.h>
 

@@ -1,10 +1,4 @@
-//
-//  RkyNameView.m
-//  EasyJieApp
-//
-//  Created by 李世乾 on 15/7/23.
-//  Copyright (c) 2015年 easyjie. All rights reserved.
-//
+
 #define kNextViewPoint_y(view)(view.frame.size.height+view.frame.origin.y)
 #import "RkyNameView.h"
 #import "RkyLoginDefine.h"

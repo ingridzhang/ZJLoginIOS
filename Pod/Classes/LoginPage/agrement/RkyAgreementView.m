@@ -1,10 +1,3 @@
-//
-//  RkyAgreementView.m
-//  EasyJieApp
-//
-//  Created by sun on 15/7/29.
-//  Copyright (c) 2015年 easyjie. All rights reserved.
-//
 
 #import "RkyAgreementView.h"
 #import "ReactiveCocoa.h"

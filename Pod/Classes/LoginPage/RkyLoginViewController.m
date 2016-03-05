@@ -1,10 +1,4 @@
-//
-//  RkyLoginViewController.m
-//  EasyJie
-//
-//  Created by ricky on 14-8-26.
-//  Copyright (c) 2014年 rickycui. All rights reserved.
-//
+
 #define kPointY(a)(a/1136*[[UIScreen mainScreen]bounds].size.height)
 #define MAS_SHORTHAND_GLOBALS
 #define MAS_SHORTHAND

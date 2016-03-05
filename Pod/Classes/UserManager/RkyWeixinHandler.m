@@ -1,10 +1,3 @@
-//
-//  RkyWeixinHandler.m
-//  EasyJieApp
-//
-//  Created by ricky on 14-9-2.
-//  Copyright (c) 2014年 easyjie. All rights reserved.
-//
 
 #import "RkyWeixinHandler.h"
 #import "RkyLoginDefine.h"
