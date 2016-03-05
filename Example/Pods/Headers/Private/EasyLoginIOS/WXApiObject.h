@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/WeChatSDK/WXApiObject.h

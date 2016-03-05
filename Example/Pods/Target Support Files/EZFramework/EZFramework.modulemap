@@ -1,0 +1,6 @@
+framework module EZFramework {
+  umbrella header "EZFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module EasyLoginIOS {
+  umbrella header "EasyLoginIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

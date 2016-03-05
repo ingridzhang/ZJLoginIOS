@@ -1,0 +1,56 @@
+{
+  "name": "EasyLoginIOS",
+  "version": "0.1.0",
+  "summary": "EasyLoginIOS for login and weixin login.",
+  "description": "EasyLoginIOS for login and weixin login.EasyLoginIOS for login and weixin login.",
+  "homepage": "http://zhangjing@123.57.37.167:8089",
+  "license": "MIT",
+  "authors": {
+    "zhangjing": "zhangjing@ezjie.cn"
+  },
+  "source": {
+    "git": "http://123.57.37.167:8089/r/EasyLoginIOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "libraries": [
+    "stdc++",
+    "sqlite3",
+    "c++",
+    "sqlite3.0",
+    "z"
+  ],
+  "vendored_libraries": "Pod/Classes/**/*.{a}",
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "EasyLoginIOS": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "SVProgressHUD": [
+
+    ],
+    "ReactiveCocoa": [
+
+    ],
+    "Aspects": [
+
+    ],
+    "ChameleonFramework": [
+
+    ],
+    "Masonry": [
+
+    ],
+    "EZFramework": [
+
+    ]
+  }
+}

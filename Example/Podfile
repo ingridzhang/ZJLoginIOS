@@ -1,0 +1,13 @@
+source 'http://123.57.37.167:8089/r/EZWeChatSDK.git'
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'EasyLoginIOS_Example', :exclusive => true do
+  pod "EasyLoginIOS", :path => "../"
+  
+end
+
+target 'EasyLoginIOS_Tests', :exclusive => true do
+  pod "EasyLoginIOS", :path => "../"
+  
+end
